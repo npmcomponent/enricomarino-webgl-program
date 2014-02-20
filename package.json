@@ -1,0 +1,11 @@
+{
+  "name": "enricomarino-webgl-program",
+  "description": "WebGL Program component",
+  "version": "0.1.0",
+  "keywords": [
+    "webgl",
+    "program"
+  ],
+  "dependencies": {},
+  "license": "MIT"
+}
